@@ -1,0 +1,9 @@
+com.example.appfulbo.app-pngs-0 C:\Users\marco\Documents\Appfulbo\app\build\generated\res\pngs\debug
+com.example.appfulbo.app-res-1 C:\Users\marco\Documents\Appfulbo\app\build\generated\res\processDebugGoogleServices
+com.example.appfulbo.app-updated_navigation_xml-2 C:\Users\marco\Documents\Appfulbo\app\build\generated\updated_navigation_xml\debug
+com.example.appfulbo.app-packageDebugResources-3 C:\Users\marco\Documents\Appfulbo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.appfulbo.app-packageDebugResources-4 C:\Users\marco\Documents\Appfulbo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.appfulbo.app-debug-5 C:\Users\marco\Documents\Appfulbo\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.appfulbo.app-debug-6 C:\Users\marco\Documents\Appfulbo\app\src\debug\res
+com.example.appfulbo.app-main-7 C:\Users\marco\Documents\Appfulbo\app\src\main\res
+gradleHome-0 C:\Users\marco\.gradle

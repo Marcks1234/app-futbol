@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.appfulbo.utils.DateTimeUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-19T21:17:08.004Z" hostname="ASUS_MARRCO" time="0.041">
+  <properties/>
+  <testcase name="isDatePast_returnsFalseForFutureDate" classname="com.example.appfulbo.utils.DateTimeUtilsTest" time="0.003"/>
+  <testcase name="sortHours_ordersTimeStringsCorrectly" classname="com.example.appfulbo.utils.DateTimeUtilsTest" time="0.037"/>
+  <testcase name="isDatePast_returnsTrueForOldDate" classname="com.example.appfulbo.utils.DateTimeUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

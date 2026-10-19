@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.appfulbo.ui.screens.login.LoginViewModel
